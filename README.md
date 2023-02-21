@@ -11,7 +11,7 @@
 ## Full White label and Customizable Index | One of a kind
 
 * Supports Both My and Team/Shared Drives with Dark Mode.
-* Click https://bdi-generator.hashhackers.com to make yours or watch https://youtu.be/Ihk4Gm3DPvg.
+* Click https://generator.downloaderku.workers.dev/ to make yours.
 
 ## Read Wiki of Index before asking How to Do What...
 
